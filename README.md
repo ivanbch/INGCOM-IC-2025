@@ -1,2 +1,2 @@
-Nombre: Iván Alejandro Bachmann\n
+Nombre: Iván Alejandro Bachmann<br/>
 Alias en GitHub: ivanbch
